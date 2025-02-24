@@ -17,11 +17,11 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-height_triangle = int(input('Enter the height '))
+height_triangle = int(input('Enter the height: '))
 base_triangle = int(input('Enter the base: '))   
 area_triangle = (height_triangle * base_triangle)/2
 
-print(f'The area of the triangle is {area_triangle}')  
+print(f'The area of the triangle is area_triangle')  
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
