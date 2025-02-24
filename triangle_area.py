@@ -18,7 +18,7 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 height_triangle = int(input('Enter the height: '))
-base_triangle = int(input('Enter the base: '))   
+base_triangle = int(input('Enter the base: \n'))   
 area_triangle = (height_triangle * base_triangle)/2
 
 print(f'The area of the triangle is {area_triangle}')  
